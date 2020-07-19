@@ -1,0 +1,648 @@
+[
+    {
+        "name": "Elsa",
+        "alive": "true",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Felsa.webp?alt=media&token=dde7d8a5-a1a4-404b-8220-703cf7348747",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Female"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Fanna.webp?alt=media&token=a88ec937-4dba-40ab-acf4-a06a26e74daa",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Female"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Olaf",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Folaf.webp?alt=media&token=2e8f6c10-ea23-499e-8100-b886d967fa48",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Snowman",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kristoff",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Fkristoff.webp?alt=media&token=c1253b4a-e692-4654-8d1c-c6399e5943f6",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Queen Iduna",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FQueen-Iduna.jpg?alt=media&token=8e5090f7-5225-43de-b3da-4f22b599d55b",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Female"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Grand Pabbie",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FGrand-Pabbie.jpg?alt=media&token=3b92c00b-5ac6-4487-bd4a-b8e9f653ac78",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Troll",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oaken",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FOaken.jpeg?alt=media&token=d9a83fdd-0dd0-4a35-8cff-a102f51ed2da",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rey",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FRey_Agnarr.jpg?alt=media&token=da2ce4b5-42de-4f27-a1fd-fe13859364d3",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Marshmallow",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FMarshmallow.webp?alt=media&token=fae05306-2498-4ca6-b91c-8e45609f4b4f",
+        "alive": "true",
+        "species": [
+            {
+                "name": "snowman",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kai Frozen",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FKai_Frozen.jpg?alt=media&token=62d67798-0a7b-449f-a600-471a9cb30f63",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sven",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Fsven.webp?alt=media&token=ea25be54-0cc3-4a5d-93a9-0dd0609e7daa",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Animal",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hans",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2Fhans.webp?alt=media&token=2723f27c-0826-47dc-a8cf-f0a07eb71cd9",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Duque de Weselton",
+        "image": "https://firebasestorage.googleapis.com/v0/b/apidisneygraphql.appspot.com/o/frozen%2FDuque-Weselton.webp?alt=media&token=e7b9db5d-dae7-4c7c-9765-8128b05df1f5",
+        "alive": "true",
+        "species": [
+            {
+                "name": "Human",
+                "gender": "Male"
+            }
+        ],
+        "movie": [
+            {
+                "name": "Frozen",
+                "year": "2013",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Hans"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Pabbie"},
+                    {"name": "Oaken"},
+                    {"name": "Rey"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "Marshmallow"},
+                    {"name": "Kai"},
+                    {"name": "Sven"}
+                ]
+            },
+            {
+                "name": "Frozen 2",
+                "year": "2019",
+                "CharacterMovieInput": [
+                    {"name": "Elsa"},
+                    {"name": "Anna"},
+                    {"name": "Olaf"},
+                    {"name": "Kristoff"},
+                    {"name": "Queen Iduna"},
+                    {"name": "Honeymaren"},
+                    {"name": "Rey"},
+                    {"name": "Yelena"},
+                    {"name": "lieutenant destin mattias"},
+                    {"name": "king runeard"},
+                    {"name": "Pabbie"},
+                    {"name": "ryder"},
+                    {"name": "Duque de Weselton"},
+                    {"name": "northuldra leader"},
+                    {"name": "Arendellian soldier"},
+                    {"name": "Guard"},
+                    {"name": "Dies irae"}
+                ]
+            }
+        ]
+    }
+]

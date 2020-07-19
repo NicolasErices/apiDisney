@@ -1,0 +1,23 @@
+{
+  "name": "disneyapi",
+  "version": "1.0.0",
+  "description": "api con graphql para personasjes de Disney",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Carlos Erices Mendez",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.14.2",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
